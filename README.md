@@ -11,6 +11,6 @@
     * .bibtex
 3. pull requestを作成して共同研究者にreviewを求める
 # 論文リスト
-| ファイル名 | 論文タイトル | 著者 | 年 |
+| ファイル名 | 論文タイトル | 分類 | 年 |
 | --- | --- | --- | --- |
-| [sdeval.md](papers/sdeval.md) | SD-Eval: A Benchmark Dataset for Spoken Dialogue Understanding Beyond Words | Ao et al. | 2024 |
+| [sdeval.md](papers/sdeval.md) | SD-Eval: A Benchmark Dataset for Spoken Dialogue Understanding Beyond Words | benchmark | 2024 |
